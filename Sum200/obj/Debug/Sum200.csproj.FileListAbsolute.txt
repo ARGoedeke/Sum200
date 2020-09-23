@@ -1,0 +1,9 @@
+C:\Users\tysha\source\repos\Sum200\Sum200\obj\Debug\Sum200.csprojAssemblyReference.cache
+C:\Users\tysha\source\repos\Sum200\Sum200\obj\Debug\Sum200.frmMain.resources
+C:\Users\tysha\source\repos\Sum200\Sum200\obj\Debug\Sum200.Properties.Resources.resources
+C:\Users\tysha\source\repos\Sum200\Sum200\obj\Debug\Sum200.csproj.GenerateResource.cache
+C:\Users\tysha\source\repos\Sum200\Sum200\obj\Debug\Sum200.csproj.CoreCompileInputs.cache
+C:\Users\tysha\source\repos\Sum200\Sum200\bin\Debug\Sum200.exe
+C:\Users\tysha\source\repos\Sum200\Sum200\bin\Debug\Sum200.pdb
+C:\Users\tysha\source\repos\Sum200\Sum200\obj\Debug\Sum200.exe
+C:\Users\tysha\source\repos\Sum200\Sum200\obj\Debug\Sum200.pdb
